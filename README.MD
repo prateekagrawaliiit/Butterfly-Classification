@@ -3,7 +3,7 @@
 ### AIM - The aim of this challenge is to classify given images into 50 categories of butterflies.
 
 ### Rank - 3 (https://dockship.io/challenges/5f7418d6fbaa7b0393ff1a05/butterfly-classification-ai-challenge/leaderboard)
-<img src="Leaderboard.png"
+<img src="rank.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 ###      - Joined Hall of Fame on Dockship (https://dockship.io/hall-of-fame)
